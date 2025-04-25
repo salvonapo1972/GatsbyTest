@@ -26,7 +26,7 @@ module.exports = {
     },
 {
       resolve: `gatsby-source-mongodb`,
-      options: {connectionString: "mongodb+srv://gatsbyjsmongodbuser:QK2NowNyVy1yb4sd@cluster0.lldnjpu.mongodb.net/?connectTimeoutMS=1200000", dbName: `CampionatoserieA`, collection: [`Squadre`] },
+      options: {connectionString: "mongodb+srv://gatsbyjsmongodbuser:xxx@cluster0.lldnjpu.mongodb.net/?connectTimeoutMS=1200000", dbName: `CampionatoserieA`, collection: [`Squadre`] },
     },
     `gatsby-plugin-image`,
     {
